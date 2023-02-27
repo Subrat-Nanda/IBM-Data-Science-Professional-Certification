@@ -1,8 +1,7 @@
 **Congratulations! You passed!
 Grade received 100% To pass 66% or higher**
 
-1.
-Which of the following is the meaning of "Out of Sample Accuracy" in the context of evaluation of models?
+1. Which of the following is the meaning of "Out of Sample Accuracy" in the context of evaluation of models?
 
 “Out of Sample Accuracy” is the percentage of correct predictions that the model makes using the test dataset.
 
@@ -19,7 +18,7 @@ Correct
 Correct! Out-of-sample accuracy represents how well the model is able to perform on unknown data.
 
 
-2.When should we use Multiple Linear Regression? (Select two)
+2. When should we use Multiple Linear Regression? (Select two)
 
 When there are multiple dependent variables
 
@@ -39,7 +38,7 @@ Correct
 Correct! We hope to understand how the dependent variable change when we change the independent variables.
 
 
-3.Which sentence is TRUE about linear regression?
+3. Which sentence is TRUE about linear regression?
 
 **A linear relationship is necessary between the independent variables and the dependent variable.**
 
