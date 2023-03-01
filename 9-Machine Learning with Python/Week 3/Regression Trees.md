@@ -24,7 +24,7 @@ The way the trees are built are similar to classification, but instead of using 
 
 A popular one is the Mean Absolute Error, which we have also seen previously.
 
-���=1�∑�=1�∣��−�^�∣_MAE_\=_n_1​_i_\=1∑_n_​∣_yi_​−_y_^​_i_​∣
+                                            ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/0183bee8f8a457ec1d35e7ef7cb0c451d7fbe87056aff8cf.png)
 
 ## **How Regression Trees are Built?**
 
