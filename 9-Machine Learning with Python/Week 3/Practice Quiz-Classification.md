@@ -18,7 +18,8 @@ Which one is TRUE about the kNN algorithm?
 ```css
 Correct:
 
-Correct! kNN can be used for both classification and regression prediction tasks. In the case of a continuous target, the prediction is taken as the average or median of the nearest neighbours.
+Correct! kNN can be used for both classification and regression prediction tasks. In the case of a continuous target, 
+the prediction is taken as the average or median of the nearest neighbours.
 ```
 
 ### **2\.** Question 2
@@ -48,5 +49,10 @@ When we have a value of K for KNN that’s too small, what will the model most l
 ```css
 Correct:
 
-Correct! By looking at too few neighbours, we can capture an anomaly in the data, which means that prediction isn’t generalized enough.
+Correct! By looking at too few neighbours, we can capture an anomaly in the data, 
+which means that prediction isn’t generalized enough.
 ```
+
+
+
+--------------------------------------- End ----------------------------------------------------------
