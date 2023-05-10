@@ -52,7 +52,7 @@ Read more below:
 | 2.     | [Tools for Data Science](2.Tools_for_Data_Science)                         |
 | 3.     | [Data Science Methodology](3.Data_Science_Methodology)                     |
 | 4.     | [Python for Data Science and AI](4.Python_for_Data_Science_and_AI)         |
-| 5.     | [Python Project for Data Science](5.Python Project for Data Science)       |
+| 5.     | [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science)       |
 | 6.     | [Databases and SQL for Data Science](6.Databases_and_SQL_for_Data_Science) |
 | 7.     | [Data Analysis with Python](7.Data_Analysis_with_Python)                   |
 | 8.     | [Data Visualization with Python](8.Data_Visualization_with_Python)         |
